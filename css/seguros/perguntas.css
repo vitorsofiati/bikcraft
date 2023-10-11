@@ -38,10 +38,26 @@
   width: 14px;
   height: 6px;
   background: url("../../img/icones/seta-abrir.svg");
+  transition: .3s;
 }
 
-/* só funciona no inicio da transição */
 .perguntas dt:hover::after {
   transform: rotate(180deg);
-  transition: .3s;
+}
+
+.perguntas dd {
+  padding-left: 20px;
+  padding-top: 16px;
+  max-width: 80ch;
+}
+
+@Media (max-width:800px) {
+  .perguntas {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .perguntas h2 {
+    margin-bottom: 40px;
+  }
 }
