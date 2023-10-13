@@ -1,5 +1,5 @@
 .bicicletas-lista {
-  padding: 60px 0 120px 0;
+  padding: 60px 20px 120px 20px;
 }
 
 .bicicletas-lista h2 {
@@ -14,6 +14,10 @@
   margin: 0 auto;
   overflow-x: auto;
   /* define o que vai ser feito quando o conteúdo estiver maior que a janela. "-x" se refere apenas ao eixo X */
+}
+
+#bicicleta .bicicletas-lista ul {
+  padding: 0px 0px 20px 0px;
 }
 
 .bicicletas-lista li {
