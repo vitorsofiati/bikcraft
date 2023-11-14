@@ -56,4 +56,27 @@ function eventosPerguntas(pergunta) {
 
 perguntas.forEach(eventosPerguntas);
 
-console.log(perguntas);
+// Galeria de bicicletas
+
+const galeria = document.querySelectorAll(".bicicleta-imagens img");
+const galeriaContainer = document.querySelector(".bicicleta-imagens");
+
+function trocarImagem(event) {
+  const img = event.currentTarget;
+  const media = window.matchMedia("(min-width:1000px)").matches;
+  console.log(media);
+  if (media) {
+    galeriaContainer.prepend(img);
+  }
+}
+
+function eventosGaleria(img) {
+  img.addEventListener("click", trocarImagem);
+}
+
+galeria.forEach(eventosGaleria);
+
+// animação
+if (window.SimpleAnime) {
+  new window.SimpleAnime();
+}
