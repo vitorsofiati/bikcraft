@@ -1,16 +1,29 @@
-Bikcraft
+# Bikcraft
+
 Bikcraft é um projeto de site voltado para a venda de bicicletas artesanais. Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidades em desenvolvimento web Front-End, incluindo design responsivo, otimização para SEO e boas práticas de acessibilidade.
 
-Demonstração
+## Demonstração
+
 Você pode visualizar o projeto ao vivo [aqui](https://vitorsofiati.github.io/bikcraft/).
 
-Tecnologias Utilizadas
-HTML5: Estruturação semântica do conteúdo.
-CSS3: Estilos visuais, incluindo CSS Grid e Flexbox para design responsivo.
-JavaScript: Interatividade e funcionalidades dinâmicas.
-GitHub Pages: Hospedagem do site.
+## Tecnologias Utilizadas
 
-Funcionalidades
-Design Responsivo: Layout que se adapta a diferentes tamanhos de tela e dispositivos.
-Otimização para SEO: Uso de meta tags, estruturação semântica e outras práticas recomendadas para melhorar a visibilidade nos motores de busca.
-Acessibilidade: Implementação de práticas como ARIA (Accessible Rich Internet Applications) para garantir que o site seja utilizável por pessoas com deficiências.
+- **HTML5:** Estruturação semântica do conteúdo.
+- **CSS3:** Estilos visuais, incluindo CSS Grid e Flexbox para design responsivo.
+- **JavaScript:** Interatividade e funcionalidades dinâmicas.
+- **Bootstrap:** Framework CSS para facilitar o design responsivo.
+- **GitHub Pages:** Hospedagem do site.
+
+## Funcionalidades
+
+- **Design Responsivo:** Layout que se adapta a diferentes tamanhos de tela e dispositivos.
+- **Otimização para SEO:** Uso de meta tags, estruturação semântica e outras práticas recomendadas para melhorar a visibilidade nos motores de busca.
+- **Acessibilidade:** Implementação de práticas como ARIA (Accessible Rich Internet Applications) para garantir que o site seja utilizável por pessoas com deficiências.
+
+## Instalação
+
+Para clonar e executar este projeto localmente, siga estas etapas:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/vitorsofiati/bikcraft.git
