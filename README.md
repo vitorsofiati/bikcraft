@@ -11,7 +11,6 @@ Você pode visualizar o projeto ao vivo [aqui](https://vitorsofiati.github.io/bi
 - **HTML5:** Estruturação semântica do conteúdo.
 - **CSS3:** Estilos visuais, incluindo CSS Grid e Flexbox para design responsivo.
 - **JavaScript:** Interatividade e funcionalidades dinâmicas.
-- **Bootstrap:** Framework CSS para facilitar o design responsivo.
 - **GitHub Pages:** Hospedagem do site.
 
 ## Funcionalidades
@@ -19,11 +18,3 @@ Você pode visualizar o projeto ao vivo [aqui](https://vitorsofiati.github.io/bi
 - **Design Responsivo:** Layout que se adapta a diferentes tamanhos de tela e dispositivos.
 - **Otimização para SEO:** Uso de meta tags, estruturação semântica e outras práticas recomendadas para melhorar a visibilidade nos motores de busca.
 - **Acessibilidade:** Implementação de práticas como ARIA (Accessible Rich Internet Applications) para garantir que o site seja utilizável por pessoas com deficiências.
-
-## Instalação
-
-Para clonar e executar este projeto localmente, siga estas etapas:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/vitorsofiati/bikcraft.git
