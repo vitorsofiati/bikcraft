@@ -1,20 +1,20 @@
 # Bikcraft
 
-Bikcraft é um projeto de site voltado para a venda de bicicletas artesanais. Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidades em desenvolvimento web Front-End, incluindo design responsivo, otimização para SEO e boas práticas de acessibilidade.
+Bikcraft is a website project focused on the sale of handmade bicycles. This project was developed to practice and demonstrate Front-End web development skills, with a focus on responsive design, SEO optimization, and accessibility.
 
-## Demonstração
+## Demo
 
-Você pode visualizar o projeto ao vivo [aqui](https://vitorsofiati.github.io/bikcraft/).
+You can view the project live [here](https://vitorsofiati.github.io/bikcraft/).
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **HTML5:** Estruturação semântica do conteúdo.
-- **CSS3:** Estilos visuais, incluindo CSS Grid e Flexbox para design responsivo.
-- **JavaScript:** Interatividade e funcionalidades dinâmicas.
-- **GitHub Pages:** Hospedagem do site.
+- **HTML5:** Semantic content structuring.
+- **CSS3:** Visual styles, including CSS Grid and Flexbox for responsive design.
+- **JavaScript:** Interactivity and dynamic functionalities.
+- **GitHub Pages:** Website hosting.
 
-## Funcionalidades
+## Features
 
-- **Design Responsivo:** Layout que se adapta a diferentes tamanhos de tela e dispositivos.
-- **Otimização para SEO:** Uso de meta tags, estruturação semântica e outras práticas recomendadas para melhorar a visibilidade nos motores de busca.
-- **Acessibilidade:** Implementação de práticas como ARIA (Accessible Rich Internet Applications) para garantir que o site seja utilizável por pessoas com deficiências.
+- **Responsive Design:** Layouts that adapt to different screen sizes and devices.
+- **SEO Optimization:** Use of meta tags, semantic structuring, and other recommended practices to improve visibility on search engines.
+- **Accessibility:** Implementation of ARIA (Accessible Rich Internet Applications) practices to ensure the website is usable by people with disabilities.
